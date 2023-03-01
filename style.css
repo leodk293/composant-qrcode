@@ -1,0 +1,21 @@
+body{
+    background-color: skyblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.bordure{
+    border: 1px white solid;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: white;
+}
+
+img{
+    border-radius: 10px;
+}
+
+h3,p{
+    text-align: center ;
+}
